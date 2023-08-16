@@ -33,7 +33,7 @@
 <h1>EXPLICACION CONCEPTO DE PROYECTO</h1>
 <h3>En esta ocasión la primera vez que trabajamos con este lenguaje de programación, nos dedicaremos a realizar una Interfaz de un chat, donde veremos implementación de Listas y Animaciones (SampleData) esto también con diseño. </h3>
 <h1>EXPLICACION PROYECTO REALIZADO</h1>
-
+<h4>En este proyecto implementamos el uso de diseño para una foto de perfil, listas en kotlin, y mas cosas como un esquema de diseño el cual definia colores. </h4>
 <h1>DIFICULTADES </h1>
  <p>Se me dificulto</p>
  -Realizar modificaciones de diseño, esto con practica se puede facilitar
